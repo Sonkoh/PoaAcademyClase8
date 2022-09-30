@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "ws/src"
+        }
+    },
+    "require": {
+        "wohali/oauth2-discord-new": "^1.1",
+        "cboden/ratchet": "^0.4.4"
+    }
+}
